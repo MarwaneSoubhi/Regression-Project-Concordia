@@ -53,7 +53,7 @@ We trained and compared **three regression models**:
 
 1. **Linear Regression**
 2. **Random Forest Regression** ✅ *(Best model!)*
-3. **Gradient Boosting Regression**
+3. **Polynomial Regression Model n**
 
 ### **🔍 Model Evaluation Metrics**
 Each model was evaluated using the following metrics:
@@ -97,7 +97,6 @@ The **model performed well**, predicting prices within the expected range.
 ---
 ## **📈 Key Insights & Learnings**
 ✅ **Feature Engineering Matters**: Including location, property type, and lease terms improved predictions.  
-✅ **Hyperparameter Tuning Boosts Performance**: Optimized parameters improved accuracy.  
 ✅ **Real-World Validation is Crucial**: Testing against real listings ensured practical model usability.  
 ✅ **Further Improvements Possible**: Incorporating additional factors (e.g., amenities, transit access) could enhance accuracy.
 
